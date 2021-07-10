@@ -1,5 +1,5 @@
 # Steam-crawler
-A crawler for website Steam to extract personal information using Selenium
+A crawler for website Steam to extract personal information
 
 ## Output
 - Report for top 10 games with the most live players in .png format
